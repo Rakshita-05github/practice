@@ -1,0 +1,45 @@
+body {
+    background-image: url('https://t4.ftcdn.net/jpg/01/79/08/75/360_F_179087574_aXjXMWEtMCpcB7hiOW7gjomzJKz4i1Y8.jpg');
+    background-size: cover;
+}
+h1{
+    color:blanchedalmond;
+    font-style: oblique;
+}
+h3{
+    color:red;
+    font-style: italic;
+
+}
+p {
+color:whitesmoke;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size:large;
+font-style:italic;
+}
+h2{
+    color:red;
+    font-style: italic;
+}
+th{
+    height:40px;
+    width:20%;
+    color: antiquewhite;
+}
+td{
+    height:40px;
+    width:20%;
+    color:antiquewhite;
+
+}
+li{
+    font-size: large;
+    font-style: oblique;
+    color: blue;
+}
+a{
+    color:aliceblue;
+    font-style: italic;
+    font-size: larger;
+}
+
