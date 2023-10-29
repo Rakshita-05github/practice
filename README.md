@@ -1,2 +1,2 @@
 # practice
- https://rakshita-05github.github.io/practice/Project/register.html/
+ https://rakshita-05github.github.io/Project/register.html
